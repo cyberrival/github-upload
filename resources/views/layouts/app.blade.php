@@ -131,17 +131,23 @@
         <footer>
             <div class="bg-white">
                 <div class="max-w-screen-xl mx-auto py-12 px-4 overflow-hidden sm:px-6 lg:px-8">
-                    <nav class="-mx-5 -my-2 flex flex-wrap justify-center">
+                    <nav class="flex flex-wrap justify-center">
+                        <div class="px-5 py-2">
+                            <a href="/" class="text-base leading-6 text-gray-500 hover:text-gray-900">
+                                Home
+                            </a>
+                        </div>
                         <div class="px-5 py-2">
                             <a href="/terms" class="text-base leading-6 text-gray-500 hover:text-gray-900">
-                                Terms Of Service
+                                Terms
                             </a>
                         </div>
                         <div class="px-5 py-2">
-                            <a href="/privacy" class="text-base leading-6 text-gray-500 hover:text-gray-900">
-                                Privacy Policy
+                            <a href="/contact" class="text-base leading-6 text-gray-500 hover:text-gray-900">
+                                Contact
                             </a>
                         </div>
+
                     </nav>
                     <div class="mt-8 flex justify-center">
                         <a href="#" class="ml-6 text-gray-400 hover:text-gray-500">

@@ -25,7 +25,7 @@ Route::post('/contact', 'PageController@send');
 Route::get('/about', 'PageController@about')->name('about');
 Route::get('/admin', 'PageController@admin')->middleware('can:administrate')->name('admin');
 Route::get('/terms', 'PageController@terms')->name('terms');
-Route::get('/privacy', 'PageController@privacy')->name('privacy');
+
 
 // blog posts
 Route::get('/blog', 'PostController@index')->name('blog');
