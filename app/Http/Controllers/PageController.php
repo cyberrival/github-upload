@@ -41,7 +41,7 @@ class PageController extends Controller
     {
         request()->validate(['email' => 'required|email']);
 
-        Mail::to('snelgarm@outlook.com')
+        Mail::to('karliefit@outlook.com')
             ->send(new Contact(request('subject'), request('email'), request('body'), request('name')));
 
 
