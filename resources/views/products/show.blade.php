@@ -3,8 +3,11 @@
 
 <!-- products -->
 <section class="bg-gray-50 py-10 px-4 sm:px-6 lg:px-8">
-    <div class="w-full max-w-screen-md mx-auto border-b">
+    <div class="w-full max-w-screen-md mx-auto text-center">
         <h1 class="text-3xl pb-2 leading-9 font-extrabold text-gray-900 sm:text-4xl sm:leading-10 lg:leading-none">Products</h1>
+        <p class="mt-4 pb-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
+            Explore libraries of professionally created pre-built and custom exercises, workouts, and programs that are ready for you to use.
+        </p>
     </div>
     @foreach($products as $product)
     <div class="lg:flex max-w-screen-md mx-auto  rounded-lg shadow-lg mt-6">

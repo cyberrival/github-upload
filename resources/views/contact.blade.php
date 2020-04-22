@@ -7,7 +7,7 @@
         <div class="max-w-3xl mx-auto lg:max-w-none">
             <h2 class="text-lg leading-6 font-semibold text-gray-500 uppercase tracking-wider">Contact</h2>
             <p class="mt-2 text-3xl leading-9 font-extrabold text-gray-900 sm:text-4xl sm:leading-10 lg:text-5xl lg:leading-none">Let's talk</p>
-            <p class="mt-2 text-lg leading-7 text-gray-700">Drop us a message about your business or project needs and we'll get back to you as soon as possible</p>
+            <p class="mt-2 text-lg leading-7 text-gray-700">Drop me a message about your needs or any questions you may have and I'll get back to you as soon as possible</p>
         </div>
     </div>
 
@@ -36,7 +36,7 @@
                         Name
                     </label>
                     <div class="mt-1 relative rounded-md shadow-sm">
-                        <input id="name" name="name" placeholder="John Doe" type="text" required="" value="" class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md placeholder-gray-400 focus:outline-none focus:shadow-outline-pink focus:border-pink-300 transition duration-150 ease-in-out sm:text-sm sm:leading-5
+                        <input id="name" name="name" placeholder="Jane Doe" type="text" required="" value="" class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md placeholder-gray-400 focus:outline-none focus:shadow-outline-pink focus:border-pink-300 transition duration-150 ease-in-out sm:text-sm sm:leading-5
                 ">
                         <div class="hidden absolute inset-y-0 right-0 pr-3 flex items-center pointer-events-none">
                             <svg class="h-5 w-5 text-red-500" fill="currentColor" viewBox="0 0 20 20">

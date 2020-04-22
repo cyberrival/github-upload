@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Mail\Contact;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 use App\Post;
@@ -36,17 +37,13 @@ class PageController extends Controller
 
 
 
-    public function store()
+    public function send()
     {
         request()->validate(['email' => 'required|email']);
-        $email = request('email');
-        $body = request('body');
 
+        Mail::to('snelgarm@outlook.com')
+            ->send(new Contact(request('subject'), request('email'), request('body'), request('name')));
 
-        Mail::raw($body, function ($message) {
-            $message->to('matthew@cyberrival.com')
-                ->subject('Hello Subject')->sender('contact@cyberrival.com');
-        });
 
         return redirect('/contact')
             ->with('message', 'Email Sent!');
