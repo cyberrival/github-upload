@@ -43,9 +43,7 @@
                             <a href="/" class="{{ Request::path() === '/' ? 'border-pink-600 text-gray-700' : 'text-gray-500' }} inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium leading-5 focus:outline-none transition duration-150 ease-in-out  border-transparent hover:text-gray-700 hover:border-green-primary">
                                 Home
                             </a>
-                            <a href="/products" class="{{ Request::path() === '/products' ? 'border-pink-600 text-gray-700' : 'text-gray-500' }} text-gray-500 ml-8 inline-flex items-center px-1 pt-1 border-b-2 border-transparent text-sm font-medium leading-5 hover:text-gray-700 hover:border-gray-300 focus:outline-none focus:text-gray-700 focus:border-gray-300 transition duration-150 ease-in-out">
-                                Products
-                            </a>
+
 
                             <!-- <div @click.away="open = false" class="relative" x-data="{ open: false }">
                                 <div class="ml-8 h-full flex items-center px-1 pt-1 border-b-2 border-transparent">
