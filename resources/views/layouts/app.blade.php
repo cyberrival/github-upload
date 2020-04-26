@@ -99,7 +99,7 @@
             </div>
             <div :class="{'block': open, 'hidden': !open}" class="hidden lg:hidden">
                 <div class="pt-2 pb-3">
-                    <a href="#" class=" border-transparent text-gray-500 hover:text-gray-700 hover:border-green-primary block pl-3 pr-4 py-2 border-l-4 text-base font-medium bg-pink-50 focus:outline-none transition duration-150 ease-in-out">Home</a>
+                    <a href="/" class=" border-transparent text-gray-500 hover:text-gray-700 hover:border-green-primary block pl-3 pr-4 py-2 border-l-4 text-base font-medium bg-pink-50 focus:outline-none transition duration-150 ease-in-out">Home</a>
                     <!-- <div class="mt-1">
                         <div class="pl-3 pr-4 py-2 border-l-4 border-transparent text-base font-medium text-gray-600 transition duration-150 ease-in-out">
                             Services
