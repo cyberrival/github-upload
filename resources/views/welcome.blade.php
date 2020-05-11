@@ -11,13 +11,11 @@
                 <br class />with Karlie
             </h2>
             <p class="mt-3 text-base text-white sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem
-                cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat
-                aliqua.
+                Whatever your health and fitness goals may be, Karlie is here to help you achieve them and put you on the path to reaching your goals, one step at a time, supporting you all the way.
             </p>
             <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div class="rounded-md shadow">
-                    <a href="#" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-pink-600 hover:bg-pink-400 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10">Get started</a>
+                    <a href="/products" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-pink-600 hover:bg-pink-400 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10">Get started</a>
                 </div>
             </div>
         </div>
@@ -30,8 +28,7 @@
             <div class="lg:text-center">
                 <h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10">What can we do together?</h3>
                 <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
-                    Lorem ipsum dolor sit amet consect adipisicing elit. Possimus magnam
-                    voluptatum cupiditate veritatis in accusamus quisquam.
+                    I offer a wide range of services and workouts to help you reach your full potential!
                 </p>
             </div>
 
@@ -96,7 +93,7 @@
                                 </div>
 
                                 <div class="pt-4 text-center">
-                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Get Ripped</h5>
+                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Strength and Toning</h5>
                                     <p class="mt-2 text-base leading-6 text-gray-500">
                                         Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                                         Maiores impedit perferendis suscipit eaque.
@@ -128,18 +125,17 @@
                     A smarter way to train
                 </h3>
                 <p class="mt-4 max-w-3xl mx-auto text-center text-xl leading-7 text-gray-500">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus magnam voluptatum cupiditate veritatis in, accusamus quisquam.
+                    Use an industry leading professionally crafted mobile app to take your training to the next level, fitness has never been more accessible.
                 </p>
             </div>
 
-            <div class="relative mt-12 lg:mt-20 lg:grid lg:grid-cols-2 lg:gap-8 lg:items-center">
+            <div class="relative mt-12 lg:mt-20 lg:grid lg:grid-cols-2 lg:gap-8 lg:items-start">
                 <div class="relative">
                     <h4 class="text-2xl leading-8 font-extrabold text-gray-900 tracking-tight sm:text-3xl sm:leading-9">
-                        Expertise at your fingertips
+                        Always in the loop
                     </h4>
                     <p class="mt-3 text-lg leading-7 text-gray-500">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur minima sequi recusandae, porro maiores officia assumenda aliquam laborum ab aliquid veritatis impedit odit adipisci optio iste blanditiis facere. Totam, velit.
-                    </p>
+                        Track workouts, nutrition, fitness targets, progress photos, personal bests, and more with the Trainerize mobile app. </p>
 
                     <ul class="mt-10">
                         <li>
@@ -147,15 +143,14 @@
                                 <div class="flex-shrink-0">
                                     <div class="flex items-center justify-center h-12 w-12 rounded-md bg-pink-200 text-pink-500">
                                         <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
-                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9"></path>
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
                                         </svg>
                                     </div>
                                 </div>
                                 <div class="ml-4">
-                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Competitive exchange rates</h5>
+                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Notifications</h5>
                                     <p class="mt-2 text-base leading-6 text-gray-500">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
-                                    </p>
+                                        Reminders to help you keep on top of your workouts and check-ins. </p>
                                 </div>
                             </div>
                         </li>
@@ -164,35 +159,19 @@
                                 <div class="flex-shrink-0">
                                     <div class="flex items-center justify-center h-12 w-12 rounded-md bg-pink-200 text-pink-500">
                                         <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
-                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3"></path>
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z"></path>
                                         </svg>
                                     </div>
                                 </div>
                                 <div class="ml-4">
-                                    <h5 class="text-lg leading-6 font-medium text-gray-900">No hidden fees</h5>
+                                    <h5 class="text-lg leading-6 font-medium text-gray-900">In app messaging</h5>
                                     <p class="mt-2 text-base leading-6 text-gray-500">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                                        Keep engaged with in app messaging and one on one communication.
                                     </p>
                                 </div>
                             </div>
                         </li>
-                        <li class="mt-10">
-                            <div class="flex">
-                                <div class="flex-shrink-0">
-                                    <div class="flex items-center justify-center h-12 w-12 rounded-md bg-pink-200 text-pink-500">
-                                        <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
-                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
-                                        </svg>
-                                    </div>
-                                </div>
-                                <div class="ml-4">
-                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Transfers are instant</h5>
-                                    <p class="mt-2 text-base leading-6 text-gray-500">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
-                                    </p>
-                                </div>
-                            </div>
-                        </li>
+
                     </ul>
                 </div>
 
@@ -205,7 +184,7 @@
                         </defs>
                         <rect width="784" height="404" fill="url(#svg-pattern-squares-2)"></rect>
                     </svg>
-                    <img class="relative mx-auto px-4 sm:px-6" width="490" src="{{ asset('images/client-dashboard-your-clients-see.png') }}" alt="">
+                    <img class="relative mx-auto px-4 sm:px-6" width="350" src="{{ asset('images/client-dashboard-your-clients-see.png') }}" alt="">
                 </div>
             </div>
 
@@ -219,13 +198,13 @@
             </svg>
 
             <div class="relative mt-12 sm:mt-16 lg:mt-24">
-                <div class="lg:grid lg:grid-flow-row-dense lg:grid-cols-2 lg:gap-8 lg:items-center">
+                <div class="lg:grid lg:grid-flow-row-dense lg:grid-cols-2 lg:gap-8 lg:items-start">
                     <div class="lg:col-start-2">
                         <h4 class="text-2xl leading-8 font-extrabold text-gray-900 tracking-tight sm:text-3xl sm:leading-9">
-                            Always in the loop
+                            Expertise at your fingertips
                         </h4>
                         <p class="mt-3 text-lg leading-7 text-gray-500">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit ex obcaecati natus eligendi delectus, cum deleniti sunt in labore nihil quod quibusdam expedita nemo.
+                            With libraries of professionally created custom and pre-built exercises, workouts, and programs on offer.
                         </p>
 
                         <ul class="mt-10">
@@ -233,15 +212,15 @@
                                 <div class="flex">
                                     <div class="flex-shrink-0">
                                         <div class="flex items-center justify-center h-12 w-12 rounded-md bg-pink-200 text-pink-500">
-                                            <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
-                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z"></path>
+                                            <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
                                             </svg>
                                         </div>
                                     </div>
                                     <div class="ml-4">
-                                        <h5 class="text-lg leading-6 font-medium text-gray-900">Mobile notifications</h5>
+                                        <h5 class="text-lg leading-6 font-medium text-gray-900">Professional Videos</h5>
                                         <p class="mt-2 text-base leading-6 text-gray-500">
-                                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                                            Watch video demonstrations of your exercises in a clear and easy to understand format.
                                         </p>
                                     </div>
                                 </div>
@@ -250,16 +229,15 @@
                                 <div class="flex">
                                     <div class="flex-shrink-0">
                                         <div class="flex items-center justify-center h-12 w-12 rounded-md bg-pink-200 text-pink-500">
-                                            <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
-                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
+                                            <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z" />
                                             </svg>
                                         </div>
                                     </div>
                                     <div class="ml-4">
-                                        <h5 class="text-lg leading-6 font-medium text-gray-900">Reminder emails</h5>
+                                        <h5 class="text-lg leading-6 font-medium text-gray-900">Print Workouts</h5>
                                         <p class="mt-2 text-base leading-6 text-gray-500">
-                                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
-                                        </p>
+                                            All workouts can be saved and printed out in PDF format </p>
                                     </div>
                                 </div>
                             </li>
@@ -275,7 +253,7 @@
                             </defs>
                             <rect width="784" height="404" fill="url(#svg-pattern-squares-4)"></rect>
                         </svg>
-                        <img class="relative mx-auto px-4 sm:px-6" width="490" src="{{ asset('images/mobile-workout.png') }}" alt="">
+                        <img class="relative mx-auto px-4 sm:px-6" width="350" src="{{ asset('images/mobile-workout.png') }}" alt="">
                     </div>
                 </div>
             </div>
@@ -345,7 +323,7 @@
         <div class="relative max-w-screen-xl mx-auto">
             <div class="text-center">
                 <h2 class="text-4xl leading-10 tracking-tight font-extrabold text-gray-900">From the blog</h2>
-                <p class="mt-5 text-xl max-w-2-xl leading-7 text-gray-500">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore sunt exercitationem placeat, earum nihil doloribus optio natus soluta ab ipsa.</p>
+                <!-- <p class="mt-5 text-xl max-w-2-xl leading-7 text-gray-500"></p> -->
             </div>
             <div class="mt-12 grid gap-5 max-w-lg mx-auto lg:grid-cols-3 lg:max-w-none">
 
@@ -396,9 +374,7 @@
                 <div class="inline-flex rounded-md shadow">
                     <a href="#" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-pink-600 hover:bg-pink-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">Get started</a>
                 </div>
-                <div class="ml-3 inline-flex rounded-md shadow">
-                    <a href="#" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-pink-600 bg-white hover:text-pink-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">Learn more</a>
-                </div>
+
             </div>
         </div>
     </div>
