@@ -95,7 +95,8 @@ class AdminProductController extends Controller
             'description' => 'required',
             'price' => 'required',
             'duration' => 'required',
-            'imageUrl' => 'required'
+            'imageUrl' => 'required',
+            'trainerizeUrl' => 'required',
         ]);
     }
 }
