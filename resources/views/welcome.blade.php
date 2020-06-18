@@ -49,9 +49,10 @@
                                 <div class="pt-4 text-center">
                                     <h5 class="text-lg leading-6 font-medium text-gray-900">Cardio Training</h5>
                                     <p class="mt-2 text-base leading-6 text-gray-500">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                                        Maiores impedit perferendis suscipit eaque, iste dolor
-                                        cupiditate blanditiis ratione.
+                                        Cardio exercize is any exercise that raises your heart rate.
+                                        We all know that to keep our muscles in shape we need to move
+                                        them. This movement makes them stronger, and stronger muscles
+                                        make for a more efficient and healthy body. With a variety of options to help increase your fitness levels.
                                     </p>
                                 </div>
                             </div>
@@ -59,7 +60,7 @@
                     </li>
                     <li class="mt-10 md:mt-0">
                         <div class="relative pb-5/6">
-                            <img class="absolute h-full w-full object-cover rounded-lg shadow-md" src="https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" />
+                            <img class="absolute h-full w-full object-cover rounded-lg shadow-md" src="{{ asset('/images/arbonne.jpg') }}" />
                         </div>
                         <div class="relative px-4 -mt-16">
                             <div class="bg-white p-6 rounded-lg shadow-lg">
@@ -70,11 +71,10 @@
                                 </div>
 
                                 <div class="pt-4 text-center">
-                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Nutrition Planning</h5>
+                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Arbonne</h5>
                                     <p class="mt-2 text-base leading-6 text-gray-500">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                                        Iste, fugiat.
+                                        A holistic approach to Health - Mind - Body - Skin. A wide range of products helping you fell better from the inside out!
+                                        We all need to start from feeling better withing ourselves to grow.
                                     </p>
                                 </div>
                             </div>
@@ -93,10 +93,12 @@
                                 </div>
 
                                 <div class="pt-4 text-center">
-                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Strength and Toning</h5>
+                                    <h5 class="text-lg leading-6 font-medium text-gray-900">Strength</h5>
                                     <p class="mt-2 text-base leading-6 text-gray-500">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                                        Maiores impedit perferendis suscipit eaque.
+                                        Muscles can either shrink or threy grown depending on how we are using them.
+                                        In order to get optimum results and a toned body, shedding body fat as well as
+                                        strength training is the best way to tone. With a variet of options to help
+                                        increase your strength and in turn tone your body.
                                     </p>
                                 </div>
                             </div>

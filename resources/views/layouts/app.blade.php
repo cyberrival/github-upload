@@ -69,6 +69,9 @@
                             <a href="/#services" class="text-gray-500 ml-8 inline-flex items-center px-1 pt-1 border-b-2 border-transparent text-sm font-medium leading-5 hover:text-gray-700 hover:border-gray-300 focus:outline-none focus:text-gray-700 focus:border-gray-300 transition duration-150 ease-in-out">
                                 Services
                             </a>
+                            <a href="http://karliesnelgar.arbonne.com" target="_blank" rel="noopener noreferrer" class="text-gray-500 ml-8 inline-flex items-center px-1 pt-1 border-b-2 border-transparent text-sm font-medium leading-5 hover:text-gray-700 hover:border-gray-300 focus:outline-none focus:text-gray-700 focus:border-gray-300 transition duration-150 ease-in-out">
+                                Arbonne
+                            </a>
                             <a href="/blog" class="{{ Request::path() === 'blog' ? 'border-pink-600 text-gray-700' : 'text-gray-500' }} ml-8 inline-flex items-center px-1 pt-1 border-b-2 border-transparent text-sm font-medium leading-5 hover:text-gray-700 hover:border-gray-300 focus:outline-none focus:text-gray-700 focus:border-gray-300 transition duration-150 ease-in-out">
                                 Blog
                             </a>
@@ -114,6 +117,7 @@
 
                     <a href="/products" class="mt-1 block pl-3 pr-4 py-2 border-l-4 border-transparent text-base font-medium text-gray-600 hover:text-gray-800 hover:bg-gray-50 hover:border-gray-300 focus:outline-none focus:text-gray-800 focus:bg-gray-50 focus:border-gray-300 transition duration-150 ease-in-out">Products</a>
                     <a href="/#services" class="mt-1 block pl-3 pr-4 py-2 border-l-4 border-transparent text-base font-medium text-gray-600 hover:text-gray-800 hover:bg-gray-50 hover:border-gray-300 focus:outline-none focus:text-gray-800 focus:bg-gray-50 focus:border-gray-300 transition duration-150 ease-in-out">Services</a>
+                    <a href="http://karliesnelgar.arbonne.com" target="_blank" rel="noopener noreferrer" class="mt-1 block pl-3 pr-4 py-2 border-l-4 border-transparent text-base font-medium text-gray-600 hover:text-gray-800 hover:bg-gray-50 hover:border-gray-300 focus:outline-none focus:text-gray-800 focus:bg-gray-50 focus:border-gray-300 transition duration-150 ease-in-out">Services</a>
                     <a href="/blog" class="mt-1 block pl-3 pr-4 py-2 border-l-4 border-transparent text-base font-medium text-gray-600 hover:text-gray-800 hover:bg-gray-50 hover:border-gray-300 focus:outline-none focus:text-gray-800 focus:bg-gray-50 focus:border-gray-300 transition duration-150 ease-in-out">Blog</a>
                     <a href="/about" class="mt-1 block pl-3 pr-4 py-2 border-l-4 border-transparent text-base font-medium text-gray-600 hover:text-gray-800 hover:bg-gray-50 hover:border-gray-300 focus:outline-none focus:text-gray-800 focus:bg-gray-50 focus:border-gray-300 transition duration-150 ease-in-out">About</a>
                     <a href="/contact" class="mt-1 block pl-3 pr-4 py-2 border-l-4 border-transparent text-base font-medium text-gray-600 hover:text-gray-800 hover:bg-gray-50 hover:border-gray-300 focus:outline-none focus:text-gray-800 focus:bg-gray-50 focus:border-gray-300 transition duration-150 ease-in-out">Contact</a>
@@ -155,17 +159,20 @@
 
                     </nav>
                     <div class="mt-8 flex justify-center">
-                        <a href="https://www.trainerize.me/profile/karliefit" class="ml-6 text-gray-400 hover:text-gray-500">
+                        <a href="https://www.trainerize.me/profile/karliefit" class="ml-6 text-gray-400 hover:text-gray-500" target="_blank" rel="noopener noreferrer">
                             <span class="sr-only">Trainerize Profile</span>
                             <img class="w-6 h-6" style="" src="{{ asset('images/trainerize-icon.png') }}">
                         </a>
 
-                        <a href="https://www.facebook.com/karliefit" class="ml-6 text-gray-400 hover:text-gray-500">
+                        <a href="https://www.facebook.com/karliefit" target="_blank" rel="noopener noreferrer" class="ml-6 text-gray-400 hover:text-gray-500">
                             <span class="sr-only">Facebook</span>
                             <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="img" viewBox="0 0 448 512">
                                 <path fill="#3b5998" d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z" /></svg>
                         </a>
-                    </div>
+                        <a href="http://karliesnelgar.arbonne.com" target="_blank" rel="noopener noreferrer" class="ml-6 text-gray-400 hover:text-gray-500">
+                            <span class="sr-only">Arbonne</span>
+                            <img class="w-6 h-6" src="{{ asset('images/arbonne–logo.png') }}">
+                        </a> </div>
                     <div class="mt-8">
                         <p class="text-center text-base leading-6 text-gray-400">
                             © 2020 KarlieFit. ABN 50 255 741 657
