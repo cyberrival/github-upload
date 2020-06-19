@@ -40,7 +40,7 @@
                 <ul class="md:grid md:grid-cols-3 md:col-gap-8 md:row-gap-10">
                     <li>
                         <div class="relative pb-5/6">
-                            <img class="absolute h-full w-full object-cover rounded-lg shadow-md" src="https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" />
+                            <img class="absolute h-full w-full object-cover rounded-lg shadow-md" src="https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="cardio exercise" />
                         </div>
                         <div class="relative px-4 -mt-16">
                             <div class="bg-white p-6 rounded-lg shadow-lg">
@@ -64,7 +64,7 @@
                     </li>
                     <li class="mt-10 md:mt-0">
                         <div class="relative pb-5/6">
-                            <img class="absolute h-full w-full object-cover rounded-lg shadow-md" src="{{ asset('/images/arbonne.jpg') }}" />
+                            <img class="absolute h-full w-full object-cover rounded-lg shadow-md" src="{{ asset('/images/arbonne.jpg') }}" alt="arbonne products" />
                         </div>
                         <div class="relative px-4 -mt-16">
                             <div class="bg-white p-6 rounded-lg shadow-lg">
@@ -86,7 +86,7 @@
                     </li>
                     <li class="mt-10 md:mt-0">
                         <div class="relative pb-5/6">
-                            <img class="absolute h-full w-full object-cover rounded-lg shadow-md" src="https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80" />
+                            <img class="absolute h-full w-full object-cover rounded-lg shadow-md" alt="strength training" src="https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80" />
                         </div>
                         <div class="relative px-4 -mt-16">
                             <div class="bg-white p-6 rounded-lg shadow-lg">
@@ -190,7 +190,7 @@
                         </defs>
                         <rect width="784" height="404" fill="url(#svg-pattern-squares-2)"></rect>
                     </svg>
-                    <img class="relative mx-auto px-4 sm:px-6" width="350" src="{{ asset('images/client-dashboard-your-clients-see.png') }}" alt="">
+                    <img class="relative mx-auto px-4 sm:px-6" width="350" src="{{ asset('images/client-dashboard-your-clients-see.png') }}" alt="trainerize app screenshot">
                 </div>
             </div>
 
@@ -259,7 +259,7 @@
                             </defs>
                             <rect width="784" height="404" fill="url(#svg-pattern-squares-4)"></rect>
                         </svg>
-                        <img class="relative mx-auto px-4 sm:px-6" width="350" src="{{ asset('images/mobile-workout.png') }}" alt="">
+                        <img class="relative mx-auto px-4 sm:px-6" width="350" src="{{ asset('images/mobile-workout.png') }}" alt="trainerize app workout screenshot">
                     </div>
                 </div>
             </div>
@@ -285,11 +285,11 @@
         <div class="relative max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
             <svg class="absolute top-full right-full transform translate-x-1/3 -translate-y-1/4 lg:translate-x-1/2 xl:-translate-y-1/2" width="400" height="400" fill="none" viewBox="0 0 400 400">
                 <defs>
-                    <pattern id="svg-pattern-squares-1" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+                    <pattern id="svg-pattern-squares-2" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
                         <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
                     </pattern>
                 </defs>
-                <rect width="300" height="300" fill="url(#svg-pattern-squares-1)" />
+                <rect width="300" height="300" fill="url(#svg-pattern-squares-2)" />
             </svg>
 
             <div class="relative">
@@ -302,7 +302,7 @@
                     <footer class="mt-8">
                         <div class="md:flex md:items-center md:justify-center">
                             <div class="md:flex-shrink-0">
-                                <img class="mx-auto h-10 w-10 rounded-full" src="https://images.unsplash.com/photo-1535953472862-9cc610a70f8a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&h=256&w=256" alt />
+                                <img class="mx-auto h-10 w-10 rounded-full" src="https://images.unsplash.com/photo-1535953472862-9cc610a70f8a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&h=256&w=256" alt="client portrait" />
                             </div>
                             <div class="mt-3 text-center md:mt-0 md:ml-4 md:flex md:items-center">
                                 <div class="text-base leading-6 font-medium text-gray-900">Tiana C</div>
@@ -338,7 +338,7 @@
                 @foreach($posts as $post)
                 <div class="bg-white flex flex-col rounded-lg shadow-lg overflow-hidden">
                     <div class="flex-shrink-0">
-                        <img class="h-48 w-full object-cover" src="{{ $post->imageUrl }}" alt="">
+                        <img class="h-48 w-full object-cover" src="{{ $post->imageUrl }}" alt="{{ $post->title }}">
                     </div>
                     <div class="flex-1 p-6 flex flex-col justify-between">
                         <div>
@@ -350,7 +350,7 @@
                             <div class="mt-6 items-center flex">
                                 <div class="flex-shrink-0">
 
-                                    <img class="h-10 w-10 rounded-full" src=" {{ asset('images/karlie_profile.jpg') }}" alt="">
+                                    <img class="h-10 w-10 rounded-full" src=" {{ asset('images/karlie_profile.jpg') }}" alt="karlie profile">
                                 </div>
                                 <div class="ml-3">
                                     <p class="text-sm leading-5 font-medium text-gray-900">Karlie</p>

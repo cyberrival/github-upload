@@ -33,9 +33,9 @@
                 <div class="flex justify-between h-16">
                     <div class="flex px-2 lg:px-0">
                         <div class="flex-shrink-0 flex items-center">
-                            <a class="my-4" href="/">
-                                <img class="block lg:hidden h-8 w-auto" src="{{ asset('icon.svg') }}" alt="">
-                                <img class="hidden lg:block h-8 w-auto" src="{{ asset('logo.svg') }}" alt="">
+                            <a class="my-4" name="home" href="/">
+                                <img class="block lg:hidden h-8 w-auto" src="{{ asset('icon.svg') }}" alt="logo">
+                                <img class="hidden lg:block h-8 w-auto" src="{{ asset('logo.svg') }}" alt="logo">
                             </a>
                         </div>
                     </div>
@@ -162,7 +162,7 @@
                     <div class="mt-8 flex justify-center">
                         <a href="https://www.trainerize.me/profile/karliefit" class="ml-6 text-gray-400 hover:text-gray-500" target="_blank" rel="noopener noreferrer">
                             <span class="sr-only">Trainerize Profile</span>
-                            <img class="w-6 h-6" src="{{ asset('images/trainerize-icon.png') }}">
+                            <img class="w-6 h-6" src="{{ asset('images/trainerize-icon.png') }}" alt="trainerize profile">
                         </a>
 
                         <a href="https://www.facebook.com/karliefit" target="_blank" rel="noopener noreferrer" class="ml-6 text-gray-400 hover:text-gray-500">
@@ -172,7 +172,7 @@
                         </a>
                         <a href="http://karliesnelgar.arbonne.com" target="_blank" rel="noopener noreferrer" class="ml-6 text-gray-400 hover:text-gray-500">
                             <span class="sr-only">Arbonne</span>
-                            <img class="w-6 h-6" src="{{ asset('images/arbonne–logo.png') }}">
+                            <img class="w-6 h-6" src="{{ asset('images/arbonne–logo.png') }}" alt="arbonne profile">
                         </a> </div>
                     <div class="mt-8">
                         <p class="text-center text-base leading-6 text-gray-400">
