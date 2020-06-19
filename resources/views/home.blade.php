@@ -1,4 +1,8 @@
 @extends('layouts.app')
+@section('seo')
+<x-seo title="Home | Karlie Fit" description="Home" />
+<meta name="robots" content="noindex" />
+@endsection
 
 @section('content')
 <div class="container">
@@ -9,9 +13,9 @@
 
                 <div class="card-body">
                     @if (session('status'))
-                        <div class="alert alert-success" role="alert">
-                            {{ session('status') }}
-                        </div>
+                    <div class="alert alert-success" role="alert">
+                        {{ session('status') }}
+                    </div>
                     @endif
 
                     You are logged in!

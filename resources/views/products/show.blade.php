@@ -1,4 +1,8 @@
 @extends('layouts.app')
+
+@section('seo')
+<x-seo title="Products | Karlie Fit" description="Explore libraries of professionally created pre-built and custom exercises, workouts, and programs that are ready for you to use." />
+@endsection
 @section('content')
 
 <!-- products -->

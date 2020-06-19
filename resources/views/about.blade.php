@@ -1,5 +1,8 @@
 @extends('layouts.app')
-
+@section('seo')
+<x-seo title="About | Karlie Fit" description="What is Karlie Fit all about? Karlie provides affordable remote and personal training in Perth. Qualified Personal Trainer and mother of two helping you achieve your fitness goals. Independent Arbonne consultant." />
+@endsection
+@section('content')
 @section('content')
 <div class="bg-gray-50">
 

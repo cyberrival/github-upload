@@ -1,5 +1,9 @@
 @extends('layouts.app')
 
+@section('seo')
+<x-seo title="Karlie Fit" description="Karlie provides affordable remote and personal training in Perth. Qualified Personal Trainer and mother of two helping you achieve your fitness goals. Independent Arbonne consultant." />
+@endsection
+
 @section('content')
 <!-- hero cta -->
 <div class="bg-contain bg-no-repeat" style="background:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(https://images.unsplash.com/photo-1574680088814-c9e8a10d8a4d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80);background-size: cover;background-repeat: no-repeat;background-position: bottom;">

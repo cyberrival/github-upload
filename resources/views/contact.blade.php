@@ -1,5 +1,7 @@
 @extends('layouts.app')
-
+@section('seo')
+<x-seo title="Contact | Karlie Fit" description="Got a question? Drop me a message and I'll be in touch" />
+@endsection
 @section('content')
 <div class="bg-gray-100 py-12 sm:py-16 lg:py-24">
 

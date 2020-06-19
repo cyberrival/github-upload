@@ -16,7 +16,7 @@ class ProductController extends Controller
     {
         $products = Product::orderBy('created_at', 'desc')->get();
 
-        return view('products.show', compact('products'));
+        return view('products.index', compact('products'));
     }
 
     /**

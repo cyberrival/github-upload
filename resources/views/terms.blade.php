@@ -1,5 +1,7 @@
 @extends('layouts.app')
-
+@section('seo')
+<x-seo title="Terms | Karlie Fit" description="Terms and conditions" />
+@endsection
 @section('content')
 <div class="bg-gray-50">
 
