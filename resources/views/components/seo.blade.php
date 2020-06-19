@@ -1,7 +1,8 @@
 @props([
 'title' => 'KarlieFit',
-'description' => ''
+'description'
 ])
+
 <title>{{ $title }}</title>
 <meta name="author" content="Karlie Snelgar">
 <meta name="description" content="{{ $description }}">

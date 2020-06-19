@@ -1,12 +1,14 @@
 @extends('layouts.app')
 @section('seo')
-<x-seo title="{{ $post->title }} | Karlie Fit" description="{{ $post->excerpt }}" />
+<x-seo :title="$post->title . ' | KarlieFit'" :description="$post->excerpt" />
 @endsection
 @section('content')
 <article class="bg-gray-50 pb-10">
     <div class="px-4 py-8 md:py-16 max-w-screen-xl mx-auto sm:px-6 lg:px-8">
         <h1 class="text-3xl md:text-5xl font-extrabold text-center text-gray-900 leading-tight">
             {{ $post->title }}
+
+
         </h1>
         <div class="mt-6 items-center flex justify-center">
             <div class="flex-shrink-0">
