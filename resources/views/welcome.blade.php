@@ -53,7 +53,7 @@
                                 <div class="pt-4 text-center">
                                     <h5 class="text-lg leading-6 font-medium text-gray-900">Cardio Training</h5>
                                     <p class="mt-2 text-base leading-6 text-gray-500">
-                                        Cardio exercize is any exercise that raises your heart rate.
+                                        Cardio exercise is any exercise that raises your heart rate.
                                         We all know that to keep our muscles in shape we need to move
                                         them. This movement makes them stronger, and stronger muscles
                                         make for a more efficient and healthy body. With a variety of options to help increase your fitness levels.
@@ -77,8 +77,8 @@
                                 <div class="pt-4 text-center">
                                     <h5 class="text-lg leading-6 font-medium text-gray-900">Arbonne</h5>
                                     <p class="mt-2 text-base leading-6 text-gray-500">
-                                        A holistic approach to Health - Mind - Body - Skin. A wide range of products helping you fell better from the inside out!
-                                        We all need to start from feeling better withing ourselves to grow.
+                                        A holistic approach to Health - Mind - Body - Skin. A wide range of products helping you feel better from the inside out!
+                                        We all need to start from feeling better within ourselves to grow.
                                     </p>
                                 </div>
                             </div>
@@ -101,7 +101,7 @@
                                     <p class="mt-2 text-base leading-6 text-gray-500">
                                         Muscles can either shrink or threy grown depending on how we are using them.
                                         In order to get optimum results and a toned body, shedding body fat as well as
-                                        strength training is the best way to tone. With a variet of options to help
+                                        strength training is the best way to tone. With a variety of options to help
                                         increase your strength and in turn tone your body.
                                     </p>
                                 </div>
@@ -378,7 +378,7 @@
             </h2>
             <div class="mt-8 flex lg:flex-shrink-0 lg:mt-0">
                 <div class="inline-flex rounded-md shadow">
-                    <a href="#" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-pink-600 hover:bg-pink-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">Get started</a>
+                    <a href="/contact" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-pink-600 hover:bg-pink-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">Get started</a>
                 </div>
 
             </div>
