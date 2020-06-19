@@ -162,7 +162,7 @@
                     <div class="mt-8 flex justify-center">
                         <a href="https://www.trainerize.me/profile/karliefit" class="ml-6 text-gray-400 hover:text-gray-500" target="_blank" rel="noopener noreferrer">
                             <span class="sr-only">Trainerize Profile</span>
-                            <img class="w-6 h-6" style="" src="{{ asset('images/trainerize-icon.png') }}">
+                            <img class="w-6 h-6" src="{{ asset('images/trainerize-icon.png') }}">
                         </a>
 
                         <a href="https://www.facebook.com/karliefit" target="_blank" rel="noopener noreferrer" class="ml-6 text-gray-400 hover:text-gray-500">
