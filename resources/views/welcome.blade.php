@@ -99,7 +99,7 @@
                                 <div class="pt-4 text-center">
                                     <h5 class="text-lg leading-6 font-medium text-gray-900">Strength</h5>
                                     <p class="mt-2 text-base leading-6 text-gray-500">
-                                        Muscles can either shrink or threy grown depending on how we are using them.
+                                        Muscles can either shrink or they grow depending on how we are using them.
                                         In order to get optimum results and a toned body, shedding body fat as well as
                                         strength training is the best way to tone. With a variety of options to help
                                         increase your strength and in turn tone your body.
